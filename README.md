@@ -26,4 +26,4 @@ This repository excludes some directories, if you're interested in becoming a mi
 
 ## License
 
-This repository is held under a `Split License`, please see the [License](LICENSE) tab for more details.
+This repository is held under a `Split License`, please see the [License](LICENSE.md) tab for more details.
