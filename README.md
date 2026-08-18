@@ -3,7 +3,7 @@
 ![Godot Engine](https://img.shields.io/badge/Godot-4.6-478CBF?logo=godot-engine&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 ![Open Source](https://img.shields.io/badge/OpenSource-Kinda-brightgreen)
-![License](https://img.shields.io/badge/License-TBD-lightgrey)
+![License](https://img.shields.io/badge/License-CC%20BY%204.0%20%2F%20Proprietary-blue)
 
 The official AdamGrounds open source repository, built with [Godot Engine](https://godotengine.org/).
 
